@@ -13,11 +13,6 @@
 08. `php artisan db:seed`
 09. `php artisan serve`
 
-### Packages
-01. `spatie/laravel-permission`
-
-### Credentials
-
 To test application the database is seeding with users :
 
 -   Admin : email = admin@demo.com, password = 12345678 and Role: Admin
